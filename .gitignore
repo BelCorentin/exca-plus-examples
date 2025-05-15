@@ -12,7 +12,7 @@ Untitled.ipynb
 
 # OS specific files
 .DS_Store
-
+.cache
 # Distribution / packaging / data storage
 data/
 outputs/
